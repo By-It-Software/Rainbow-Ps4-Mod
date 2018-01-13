@@ -1,0 +1,14 @@
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\bin\Debug\Rainbow Six Siege PS4 ModS.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\bin\Debug\Rainbow Six Siege PS4 ModS.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\bin\Debug\Rainbow Six Siege PS4 ModS.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form1.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Resources.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow Six Siege PS4 ModS.vbproj.GenerateResource.Cache
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow Six Siege PS4 ModS.exe
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow Six Siege PS4 ModS.xml
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow Six Siege PS4 ModS.pdb
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form2.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form3.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form4.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form5.resources
+C:\Users\Nicholas Impieri\documents\visual studio 2010\Projects\Rainbow Six Siege PS4 ModS\Rainbow Six Siege PS4 ModS\obj\x86\Debug\Rainbow_Six_Siege_PS4_ModS.Form6.resources

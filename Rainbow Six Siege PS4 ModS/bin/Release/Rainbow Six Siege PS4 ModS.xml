@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RainbowSixSiegePS4ModS
+</name>
+</assembly>
+<members>
+<member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.favicon">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Icon simile a (Icona).
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.favicon_2">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Icon simile a (Icona).
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.favicon_3">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Icon simile a (Icona).
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.Internet_IPv6">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.IP_address_57c75cfe5f9b5829f4a5cc35">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.PS4_logo">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.rainbow_6">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.Rainbow_Six_Siege_01">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources.Rainbow_Six_Siege_1_740x340">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Rainbow_Six_Siege_PS4_ModS.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>
